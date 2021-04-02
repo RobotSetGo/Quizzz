@@ -41,23 +41,23 @@ var questions = [
     {
         "answer": true,
         "question": "Ο Tony Stark δημιούργησε για πρώτη φορά στολή με κομμάτια τα οποία συνδέονται πάνω του στην ταινία Iron Man 3."
-    }
+    },
     {
         "answer": false,
         "question": "Η ομάδα στην οποία συμμετέχει και ο Bat Man ονομάζεται Avengers"
-    }
+    },
     {
         "answer": false,
         "question": "Η Wander Woman μπορεί να πετάει."
-    }
+    },
     {
         "answer": false,
         "question": "Η αδυναμία του Super Man είναι ο κρυπτοκτύπτης"
-    }
+    },
     {
         "answer": true,
         "question": "Το όχημα του Batman ονομάζεται Batmobil"
-    }
+    },
     {
         "answer": false,
         "question": "Ο Spiderman τσιμπήθηκαι από σκορπιό, και έτσι απέκτησε τις ικανότητές του"

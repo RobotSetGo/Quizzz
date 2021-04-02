@@ -39,6 +39,30 @@ var questions = [
         "question": "Ο ετεροθαλής αδελφός του Θορ ονομάζεται Λόκι"
     },
     {
+        "answer": true,
+        "question": "Ο Tony Stark δημιούργησε για πρώτη φορά στολή με κομμάτια τα οποία συνδέονται πάνω του στην ταινία Iron Man 3."
+    }
+    {
+        "answer": false,
+        "question": "Η ομάδα στην οποία συμμετέχει και ο Bat Man ονομάζεται Avengers"
+    }
+    {
+        "answer": false,
+        "question": "Η Wander Woman μπορεί να πετάει."
+    }
+    {
+        "answer": false,
+        "question": "Η αδυναμία του Super Man είναι ο κρυπτοκτύπτης"
+    }
+    {
+        "answer": true,
+        "question": "Το όχημα του Batman ονομάζεται Batmobil"
+    }
+    {
+        "answer": false,
+        "question": "Ο Spiderman τσιμπήθηκαι από σκορπιό, και έτσι απέκτησε τις ικανότητές του"
+    },
+    {
         "answer": false,
         "question": "Η φρουρά του Black Panther που αποτελείται μόνο από γυναίκες λέγεται Black Panther's Protectors?"
     },

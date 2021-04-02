@@ -39,8 +39,8 @@ var questions = [
         "question": "Ο ετεροθαλής αδελφός του Θορ ονομάζεται Λόκι"
     },
     {
-        "answer" : false,
-        "question" : "Ο Tony Stark είναι ο πλουσιότερος χαρακτήρας της Marvel"
+        "answer": false,
+        "question": "Ο Tony Stark είναι ο πλουσιότερος χαρακτήρας της Marvel"
     },
     {
         "answer": false,
@@ -78,47 +78,47 @@ var questions = [
     },
     {
         "answer": true,
-        "question": "Το όχημα του Batman ονομάζεται Batmobil"
+        "question": "Το όχημα του Batman ονομάζεται Batmobile"
     },
     {
         "answer": false,
-        "question": "Ο Spiderman τσιμπήθηκαι από σκορπιό, και έτσι απέκτησε τις ικανότητές του"
+        "question": "Ο Spiderman εδαγκώθει από σκορπιό, και έτσι απέκτησε τις ικανότητές του"
     },
     {
         "answer": false,
-        "question": "Η φρουρά του Black Panther που αποτελείται μόνο από γυναίκες λέγεται Black Panther's Protectors?"
+        "question": "Η φρουρά του Black Panther που αποτελείται μόνο από γυναίκες λέγεται Black Panther's Protectors;"
     },
     {
         "answer": true,
-        "question": "Ο Hawkeye ΔΕΝ εμφανίζεται στο Infinity War?"
+        "question": "Ο Hawkeye ΔΕΝ εμφανίζεται στο Infinity War;"
     },
     {
         "answer": false,
-        "question": "Ο στρατός που συγκεντρώνει ο Thanos στην Γη ονομάζεται Demogorgons?",
-        "wiki" : "Ο στρατός Thanos στην Γη ονομάζεται Outriders"
+        "question": "Ο στρατός που συγκεντρώνει ο Thanos στην Γη ονομάζεται Demogorgons;",
+        "wiki": "Ο στρατός Thanos στην Γη ονομάζεται Outriders"
     },
     {
         "answer": false,
-        "question": "Το Soul Stone σύμφωνα με την ταινία το βρήκαν  στον πλανήτη Mars?",
-        "wiki" : "Το Soul Stone σύμφωνα με την ταινία το βρήκαν  στον πλανήτη Vormir"
-       
+        "question": "Το Soul Stone σύμφωνα με την ταινία το βρήκαν  στον πλανήτη Mars;",
+        "wiki": "Το Soul Stone σύμφωνα με την ταινία το βρήκαν  στον πλανήτη Vormir"
+
     },
     {
         "answer": true,
-        "question": "Tα πετράδια της αιωνιότητας είναι 6?"
+        "question": "Tα πετράδια της αιωνιότητας είναι 6;"
     },
     {
         "answer": true,
-        "question": "O Doctor Strange είχε 14.000.605 ενναλακτικές επιλογές?",
+        "question": "O Doctor Strange είχε 14.000.605 ενναλακτικές επιλογές;",
     },
     {
         "answer": false,
-        "question": "Η πρώτη εμφάνιση του Captain America ήταν στην φυλακή?",
-        "wiki" : "Η πρώτη εμφάνιση του Captain America ήταν στον σταθμό τρένου"
+        "question": "Η πρώτη εμφάνιση του Captain America ήταν στην φυλακή;",
+        "wiki": "Η πρώτη εμφάνιση του Captain America ήταν στον σταθμό τρένου"
     },
     {
         "answer": false,
-        "question": "Για να αποκτήσεις κάποιος το Soul Stone απαιτείται να κατέχει ήδη τα υπόλοιπα πετράδια?",
-        "wiki" : "Για να αποκτήσεις κάποιος το Soul Stone απαιτείται μια θυσία, ενός αγαπημένου προσώπου"
+        "question": "Για να αποκτήσει κάποιος το Soul Stone απαιτείται να κατέχει ήδη τα υπόλοιπα πετράδια?",
+        "wiki": "Για να αποκτήσει κάποιος το Soul Stone απαιτείται μια θυσία, ενός αγαπημένου προσώπου"
     },
 ];

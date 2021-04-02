@@ -44,7 +44,7 @@ var questions = [
     },
     {
         "answer": false,
-        "question": "Ο Captain America παγώθηκε για 55 χρόνια"
+        "question": "Ο Captain America παγώθηκε για 55 χρόνια",
         "wiki": "Στην πραγματικότητα ήταν παγωμένος για 66 χρόνια"
     },
     {

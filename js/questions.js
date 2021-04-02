@@ -37,5 +37,28 @@ var questions = [
     {
         "answer": true,
         "question": "Ο ετεροθαλής αδελφός του Θορ ονομάζεται Λόκι"
-    }
-];
+    },
+    {
+        "answer" : false,
+        "question" : "Ο Tony Stark είναι ο πλουσιότερος χαρακτήρας της Marvel"
+    },
+    {
+        "answer": false,
+        "question": "Ο Captain America παγώθηκε για 55 χρόνια"
+        "wiki": "Στην πραγματικότητα ήταν παγωμένος για 66 χρόνια"
+    },
+    {
+        "answer": true,
+        "question": "Ο Nick Fury έχασε το ματι του, γιατί του το εβγαλε μια γάτα"
+    },
+    {
+        "answer": false,
+        "question": "Ο Groot δεν είπε ποτέ τίποτα άλλο εκτός από τη φράση: Είμαι Groot",
+        "wiki": "Στο τέλος της ταινίας Guardians of the Galaxy, ο Groot λέει στην είμαστε Groot."
+    },
+    {
+        "answer": true,
+        "question": "Ο χειμερινός στρατιώτης έχει βραχίονα από βιμπρανιο"
+    },
+]
+

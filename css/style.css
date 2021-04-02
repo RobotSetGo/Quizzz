@@ -1,10 +1,10 @@
-.container{
+.container {
     margin-left: 300px;
     margin-right: 300px;
     margin-top: 50px;
 }
 
-.question-box{
+.question-box {
     border: 2px solid black;
     text-align: center;
     font-size: 50px;
@@ -12,65 +12,87 @@
     padding-bottom: 150px;
 }
 
-.buttons{
+.buttons {
     margin-top: 50px;
     text-align: center;
 }
 
-.btn{
+.btn {
     font-size: 50px;
     padding: 20px;
     width: 400px;
 }
 
-.btn-true{
+.btn-true {
     background-color: darkseagreen;
-    color:beige;
-    border:0px;
+    color: beige;
+    border: 0px;
 }
 
-.btn-false{
+.btn-false {
     background-color: salmon;
-    color:beige;
-    border:0px;
+    color: beige;
+    border: 0px;
 }
 
-.btn-restart{
+.btn-restart {
     background-color: #f1c40f;
-    color:#34495e;
-    border:0px;
+    color: #34495e;
+    border: 0px;
     width: 805px;
 }
 
-.btn-true:hover{
-    background-color:rgb(42, 101, 51);
-    color:beige;
-    border:1px solid black;
+.btn-true:hover {
+    background-color: rgb(42, 101, 51);
+    color: beige;
+    border: 1px solid black;
 }
 
-.btn-false:hover{
+.btn-false:hover {
     background-color: rgb(135, 81, 81);
-    color:beige;
-    border:1px solid black;
+    color: beige;
+    border: 1px solid black;
 }
 
-.message{
+.message {
     text-align: center;
     margin-top: 30px;
     font-size: 30px;
 }
 
-.navbar{
+.navbar {
     margin-left: 312px;
     margin-right: 288px;
 }
 
-.btn-next{
+.btn-next {
     width: 805px;
     background-color: darkgrey;
 }
 
-.about_main_text{
-  margin-top: 30px;
-  
+.about_main_text {
+    margin-top: 30px;
+}
+
+.contact-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contact-container>li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.contact-container>h3 {
+    font-size: 30px;
+    color: #34495e;
+    margin-bottom: 10px;
+}
+
+.contact-container>li>a {
+    text-decoration: none;
+    color: #000;
 }

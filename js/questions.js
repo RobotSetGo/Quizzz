@@ -111,14 +111,15 @@ var questions = [
         "answer": true,
         "question": "O Doctor Strange είχε 14.000.605 ενναλακτικές επιλογές;",
     },
-    {
-        "answer": false,
-        "question": "Η πρώτη εμφάνιση του Captain America ήταν στην φυλακή;",
-        "wiki": "Η πρώτη εμφάνιση του Captain America ήταν στον σταθμό τρένου"
-    },
+    
     {
         "answer": false,
         "question": "Για να αποκτήσει κάποιος το Soul Stone απαιτείται να κατέχει ήδη τα υπόλοιπα πετράδια?",
         "wiki": "Για να αποκτήσει κάποιος το Soul Stone απαιτείται μια θυσία, ενός αγαπημένου προσώπου"
+    },
+    {
+        "answer": false,
+        "question": "Η πρώτη εμφάνιση του Captain America ήταν στην φυλακή;",
+        "wiki": "Η πρώτη εμφάνιση του Captain America ήταν στον σταθμό τρένου"
     },
 ];
